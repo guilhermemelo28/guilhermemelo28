@@ -28,14 +28,6 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender novas li
 - ⚙️ C++
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermemelo28&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemelo28&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 
 ## 🚀 Objetivos
 
