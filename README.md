@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Guilherme Moura de Melo
+ Guilherme Moura de Melo
 
 <p align="left">
   <img src="https://img.shields.io/badge/Estudante%20de%20Sistemas%20de%20Informação-0A66C2?style=for-the-badge"/>
