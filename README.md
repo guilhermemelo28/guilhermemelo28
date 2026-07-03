@@ -14,19 +14,11 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender novas li
 ## 💻 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github" />
 </p>
 
 ---
 
-## 📚 Atualmente estudando
-
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 💻 C
-- ⚙️ C++
----
 
 
 ## 🚀 Objetivos
