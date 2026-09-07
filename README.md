@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender novas li
 
 ---
 
-## 💻 Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github" />
@@ -21,16 +21,16 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender novas li
 
 
 
-## 🚀 Objetivos
+##  Objetivos
 
-- 📚 Aprender continuamente novas tecnologias.
-- 💻 Desenvolver projetos para fortalecer meu portfólio.
-- 🚀 Evoluir como desenvolvedor Full Stack.
-- 🤝 Contribuir para projetos Open Source.
+ Aprender continuamente novas tecnologias.
+ Desenvolver projetos para fortalecer meu portfólio.
+Evoluir como desenvolvedor Full Stack.
+ Contribuir para projetos Open Source.
 
 ---
 
-## 🌎 Redes Sociais
+## Redes Sociais
 
 <p align="left">
   <a href="https://github.com/guilhermemelo28" target="_blank">
