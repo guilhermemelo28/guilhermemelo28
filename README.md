@@ -1,9 +1,6 @@
  Guilherme Moura de Melo
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Estudante%20de%20Sistemas%20de%20Informação-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Em%20Desenvolvimento-28A745?style=for-the-badge"/>
-</p>
+
 
 Olá! Meu nome é **Guilherme Moura de Melo** e sou estudante de **Sistemas de Informação** na **Universidade Federal de Uberlândia (UFU) - Campus Monte Carmelo**.
 
