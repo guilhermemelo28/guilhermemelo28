@@ -7,7 +7,7 @@
 
 Olá! Meu nome é **Guilherme Moura de Melo** e sou estudante de **Sistemas de Informação** na **Universidade Federal de Uberlândia (UFU) - Campus Monte Carmelo**.
 
-Sou apaixonado por tecnologia e programação, sempre buscando aprender novas linguagens, desenvolver projetos e aprimorar minhas habilidades. Atualmente estou estudando desenvolvimento web, programação em **C/C++**.
+Sou apaixonado por tecnologia e programação, sempre buscando aprender novas linguagens, desenvolver projetos e aprimorar minhas habilidades. Atualmente estou estudando desenvolvimento web, programação em **C/C++**, estou iniciando meus estudos em Java.
 
 ---
 
@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender novas li
  Aprender continuamente novas tecnologias.
  Desenvolver projetos para fortalecer meu portfólio.
 Evoluir como desenvolvedor Full Stack.
- Contribuir para projetos Open Source.
+ 
 
 ---
 
